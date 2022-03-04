@@ -15,6 +15,12 @@
           <text value="Olá Mundo"/>
         </properties>
       </component>
+      <component id="7871b" class="javax.swing.JLabel" binding="gabriel">
+        <constraints border-constraint="West"/>
+        <properties>
+          <text value="O Gabriel esteve aqui"/>
+        </properties>
+      </component>
     </children>
   </grid>
 </form>
